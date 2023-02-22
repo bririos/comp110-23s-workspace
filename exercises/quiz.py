@@ -19,3 +19,12 @@ while l1_idx < len(WORD):
 
     print(f"{WORD[l1_idx]} appears {n_appearances} times.")
     l1_idx = l1_idx +1
+
+
+     while playing: not [True and j <length_secret]:
+    if j 
+        playing= True
+        j +=1
+    else:
+        guess[i] in SECRET:
+        print((guess[i],WHITE_BOX),empty_string)
